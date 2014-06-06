@@ -1,0 +1,225 @@
+[2013-11-25 19:03:31] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-25 19:05:30] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'OAuth' not found' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:11
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 19:05:31] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'OAuth' not found' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:11
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 19:09:26] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'OAuth' not found' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:11
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 19:11:13] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'OAuth' not found' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:11
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 19:26:09] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '.', expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR)' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:3
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 19:26:36] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '.', expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR)' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:3
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 19:26:37] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected '.', expecting identifier (T_STRING) or \\ (T_NS_SEPARATOR)' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:3
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 19:26:45] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'OAuth' not found' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:11
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 19:28:36] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'OAuth' not found' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:11
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 19:28:37] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'OAuth' not found' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:11
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 19:28:40] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'OAuth' not found' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:11
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 19:28:44] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'OAuth' not found' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:11
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 19:28:46] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'OAuth' not found' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:11
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 19:37:02] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'OAuth' not found' in D:\Project\Src\SAClient\app\controllers\FacebookLogin.php:11
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+<<<<<<< .mine
+[2013-11-25 19:53:16] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'OAuth' not found' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\app\controllers\FacebookLogin.php:11
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 20:00:53] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Artdarek\OAuth' not found' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\app\controllers\FacebookLogin.php:12
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 20:01:00] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Artdarek\OAuth' not found' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\app\controllers\FacebookLogin.php:12
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 20:03:17] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Artdarek\OAuth' not found' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\app\controllers\FacebookLogin.php:12
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+=======
+[2013-11-25 22:06:15] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'return' (T_RETURN)' in D:\Project\Src\SAClient\app\controllers\Analyser.php:9
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 22:06:29] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'return' (T_RETURN)' in D:\Project\Src\SAClient\app\controllers\Analyser.php:9
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 22:07:21] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'return' (T_RETURN)' in D:\Project\Src\SAClient\app\controllers\Analyser.php:9
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 22:07:28] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'return' (T_RETURN)' in D:\Project\Src\SAClient\app\controllers\Analyser.php:9
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 22:07:36] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected 'return' (T_RETURN)' in D:\Project\Src\SAClient\app\controllers\Analyser.php:9
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-25 22:15:33] log.ERROR: exception 'ErrorException' with message 'file_get_contents(www.example.com): failed to open stream: No such file or directory' in D:\Project\Src\SAClient\app\controllers\Analyser.php:8
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleError(2, 'file_get_conten...', 'D:\Project\Src\...', 8, Array)
+#1 D:\Project\Src\SAClient\app\controllers\Analyser.php(8): file_get_contents('www.example.com')
+#2 [internal function]: Analyser->analyse()
+#3 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#5 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#6 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#7 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#12 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#13 {main} [] []
+[2013-11-25 22:15:40] log.ERROR: exception 'ErrorException' with message 'file_get_contents(www.example.com): failed to open stream: No such file or directory' in D:\Project\Src\SAClient\app\controllers\Analyser.php:8
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleError(2, 'file_get_conten...', 'D:\Project\Src\...', 8, Array)
+#1 D:\Project\Src\SAClient\app\controllers\Analyser.php(8): file_get_contents('www.example.com')
+#2 [internal function]: Analyser->analyse()
+#3 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#5 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#6 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#7 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#12 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#13 {main} [] []
+[2013-11-25 22:16:00] log.ERROR: exception 'ErrorException' with message 'Use of undefined constant analysisResponse - assumed 'analysisResponse'' in D:\Project\Src\SAClient\app\controllers\Analyser.php:9
+Stack trace:
+#0 D:\Project\Src\SAClient\app\controllers\Analyser.php(9): Illuminate\Exception\Handler->handleError(8, 'Use of undefine...', 'D:\Project\Src\...', 9, Array)
+#1 [internal function]: Analyser->analyse()
+#2 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#3 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#5 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#7 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#12 {main} [] []
+[2013-11-25 22:16:10] log.ERROR: exception 'ErrorException' with message 'Use of undefined constant analysisResponse - assumed 'analysisResponse'' in D:\Project\Src\SAClient\app\controllers\Analyser.php:9
+Stack trace:
+#0 D:\Project\Src\SAClient\app\controllers\Analyser.php(9): Illuminate\Exception\Handler->handleError(8, 'Use of undefine...', 'D:\Project\Src\...', 9, Array)
+#1 [internal function]: Analyser->analyse()
+#2 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#3 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#5 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#7 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#12 {main} [] []
+[2013-11-25 22:16:29] log.ERROR: exception 'ErrorException' with message 'Use of undefined constant analysisResponse - assumed 'analysisResponse'' in D:\Project\Src\SAClient\app\controllers\Analyser.php:9
+Stack trace:
+#0 D:\Project\Src\SAClient\app\controllers\Analyser.php(9): Illuminate\Exception\Handler->handleError(8, 'Use of undefine...', 'D:\Project\Src\...', 9, Array)
+#1 [internal function]: Analyser->analyse()
+#2 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#3 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#5 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#7 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#12 {main} [] []
+[2013-11-25 22:16:33] log.ERROR: exception 'ErrorException' with message 'Use of undefined constant analysisResponse - assumed 'analysisResponse'' in D:\Project\Src\SAClient\app\controllers\Analyser.php:9
+Stack trace:
+#0 D:\Project\Src\SAClient\app\controllers\Analyser.php(9): Illuminate\Exception\Handler->handleError(8, 'Use of undefine...', 'D:\Project\Src\...', 9, Array)
+#1 [internal function]: Analyser->analyse()
+#2 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#3 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#5 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#7 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#12 {main} [] []
+[2013-11-25 22:16:42] log.ERROR: exception 'ErrorException' with message 'Use of undefined constant analysisResponse - assumed 'analysisResponse'' in D:\Project\Src\SAClient\app\controllers\Analyser.php:9
+Stack trace:
+#0 D:\Project\Src\SAClient\app\controllers\Analyser.php(9): Illuminate\Exception\Handler->handleError(8, 'Use of undefine...', 'D:\Project\Src\...', 9, Array)
+#1 [internal function]: Analyser->analyse()
+#2 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#3 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#5 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#7 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#12 {main} [] []
+[2013-11-25 22:16:47] log.ERROR: exception 'ErrorException' with message 'Use of undefined constant analysisResponse - assumed 'analysisResponse'' in D:\Project\Src\SAClient\app\controllers\Analyser.php:9
+Stack trace:
+#0 D:\Project\Src\SAClient\app\controllers\Analyser.php(9): Illuminate\Exception\Handler->handleError(8, 'Use of undefine...', 'D:\Project\Src\...', 9, Array)
+#1 [internal function]: Analyser->analyse()
+#2 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#3 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#5 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#7 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#12 {main} [] []
+>>>>>>> .r35

@@ -1,0 +1,6 @@
+============= Week 10 ================
+- analyse refactoring | Radu
+- facebook posts query | Radu
+- AOP controller | Tibi
+- analyse view (graph) | Aida
+- documentare Bootstrap | Gabriela

@@ -1,0 +1,41 @@
+<div class="well well-sm" style="margin-top:60px;">
+	<h4>General results:</h4>
+	<div class="progress progress-striped active">
+		<div class="progress-bar progress-bar-danger" style="width: <?php echo e($analysisResult->general->likelihood->NEG*100); ?>%">
+			<span><strong><?php echo e(round($analysisResult->general->likelihood->NEG*100)); ?>% Negative</strong></span></div>
+		<div class="progress-bar progress-bar-warning" style="width: <?php echo e($analysisResult->general->likelihood->NEU*100); ?>%">
+			<span><strong><?php echo e(round($analysisResult->general->likelihood->NEU*100)); ?>% Neutral</strong></span></div>
+		<div class="progress-bar progress-bar-success" style="width: <?php echo e($analysisResult->general->likelihood->POS*100); ?>%">
+			<span><strong><?php echo e(round($analysisResult->general->likelihood->POS*100)); ?>% Positive</strong></span></div>
+	</div>
+</div>
+
+<div class="well well-sm">
+	<h4>Tag results:</h4>
+	<?php foreach ($analysisResult->tags as $tagName => $tag): ?>
+	<h5><?php echo e($tagName); ?></h5>
+	<div class="progress">
+		<div class="progress-bar progress-bar-danger" style="width: <?php echo e($tag->likelihood->NEG*100); ?>%">
+			<span><strong><?php echo e(round($tag->likelihood->NEG*100)); ?>% Negative</strong></span></div>
+		<div class="progress-bar progress-bar-warning" style="width: <?php echo e($tag->likelihood->NEU*100); ?>%">
+			<span><strong><?php echo e(round($tag->likelihood->NEU*100)); ?>% Neutral</strong></span></div>
+		<div class="progress-bar progress-bar-success" style="width: <?php echo e($tag->likelihood->POS*100); ?>%">
+			<span><strong><?php echo e(round($tag->likelihood->POS*100)); ?>% Positive</strong></span></div>
+	</div>
+	<?php endforeach; ?>
+</div>
+
+<div class="well well-sm">
+	<h4>Samples:</h4>
+	<?php foreach ($analysisResult->posts as $post): ?>
+	<h5><?php echo e('"'.$post->data['text'].'"'); ?></h5>
+	<div class="progress">
+		<div class="progress-bar progress-bar-danger" style="width: <?php echo e($post->result->likelihood->NEG*100); ?>%">
+			<span><strong><?php echo e(round($post->result->likelihood->NEG*100)); ?>% Negative</strong></span></div>
+		<div class="progress-bar progress-bar-warning" style="width: <?php echo e($post->result->likelihood->NEU*100); ?>%">
+			<span><strong><?php echo e(round($post->result->likelihood->NEU*100)); ?>% Neutral</strong></span></div>
+		<div class="progress-bar progress-bar-success" style="width: <?php echo e($post->result->likelihood->POS*100); ?>%">
+			<span><strong><?php echo e(round($post->result->likelihood->POS*100)); ?>% Positive</strong></span></div>
+	</div>
+	<?php endforeach; ?>
+</div>

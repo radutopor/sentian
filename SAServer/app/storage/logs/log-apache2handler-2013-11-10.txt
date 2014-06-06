@@ -1,0 +1,112 @@
+[2013-11-10 11:25:50] log.ERROR: exception 'ErrorException' with message 'Undefined variable: test' in D:\fac\mlc1\TAIP\SVN\Src\SAServer\app\views\hello.php:50
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAServer\app\views\hello.php(50): Illuminate\Exception\Handler->handleError(8, 'Undefined varia...', 'D:\fac\mlc1\TAI...', 50, Array)
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(38): include('D:\fac\mlc1\TAI...')
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(17): Illuminate\View\Engines\PhpEngine->evaluatePath('D:\fac\mlc1\TAI...', Array)
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\View\View.php(100): Illuminate\View\Engines\PhpEngine->get('D:\fac\mlc1\TAI...', Array)
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\View\View.php(81): Illuminate\View\View->getContents()
+#5 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Http\Response.php(70): Illuminate\View\View->render()
+#6 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Response.php(141): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#7 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1414): Symfony\Component\HttpFoundation\Response->__construct(Object(Illuminate\View\View))
+#8 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Route.php(58): Illuminate\Routing\Router->prepare(Object(Illuminate\View\View), Object(Illuminate\Http\Request))
+#9 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#10 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#11 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#12 D:\fac\mlc1\TAIP\SVN\Src\SAServer\public\index.php(49): Illuminate\Foundation\Application->run()
+#13 {main} [] []
+[2013-11-10 11:28:10] log.ERROR: exception 'ErrorException' with message 'Undefined offset: 1' in D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php:974
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(974): Illuminate\Exception\Handler->handleError(8, 'Undefined offse...', 'D:\fac\mlc1\TAI...', 974, Array)
+#1 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#5 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#6 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#7 D:\fac\mlc1\TAIP\SVN\Src\SAServer\public\index.php(49): Illuminate\Foundation\Application->run()
+#8 {main} [] []
+[2013-11-10 11:28:22] log.ERROR: exception 'ReflectionException' with message 'Class  does not exist' in D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Container\Container.php:308
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Container\Container.php(308): ReflectionClass->__construct('')
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Container\Container.php(250): Illuminate\Container\Container->build('', Array)
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(478): Illuminate\Container\Container->make('', Array)
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(983): Illuminate\Foundation\Application->make('')
+#4 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#5 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#6 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#7 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#8 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#9 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#10 D:\fac\mlc1\TAIP\SVN\Src\SAServer\public\index.php(49): Illuminate\Foundation\Application->run()
+#11 {main} [] []
+[2013-11-10 11:28:59] log.ERROR: exception 'ReflectionException' with message 'Class home does not exist' in D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Container\Container.php:308
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Container\Container.php(308): ReflectionClass->__construct('home')
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Container\Container.php(250): Illuminate\Container\Container->build('home', Array)
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(478): Illuminate\Container\Container->make('home', Array)
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(983): Illuminate\Foundation\Application->make('home')
+#4 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#5 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#6 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#7 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#8 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#9 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#10 D:\fac\mlc1\TAIP\SVN\Src\SAServer\public\index.php(49): Illuminate\Foundation\Application->run()
+#11 {main} [] []
+[2013-11-10 11:31:47] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'Unirest\Unirest' not found' in D:\fac\mlc1\TAIP\SVN\Src\SAServer\app\controllers\HomeController.php:22
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-11-10 11:40:40] log.ERROR: exception 'ErrorException' with message 'Object of class Unirest\HttpResponse could not be converted to string' in D:\fac\mlc1\TAIP\SVN\Src\SAServer\app\views\hello.php:50
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAServer\app\views\hello.php(50): Illuminate\Exception\Handler->handleError(4096, 'Object of class...', 'D:\fac\mlc1\TAI...', 50, Array)
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(38): include('D:\fac\mlc1\TAI...')
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\View\Engines\PhpEngine.php(17): Illuminate\View\Engines\PhpEngine->evaluatePath('D:\fac\mlc1\TAI...', Array)
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\View\View.php(100): Illuminate\View\Engines\PhpEngine->get('D:\fac\mlc1\TAI...', Array)
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\View\View.php(81): Illuminate\View\View->getContents()
+#5 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Http\Response.php(70): Illuminate\View\View->render()
+#6 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\symfony\http-foundation\Symfony\Component\HttpFoundation\Response.php(141): Illuminate\Http\Response->setContent(Object(Illuminate\View\View))
+#7 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1414): Symfony\Component\HttpFoundation\Response->__construct(Object(Illuminate\View\View))
+#8 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(156): Illuminate\Routing\Router->prepare(Object(Illuminate\View\View), Object(Illuminate\Http\Request))
+#9 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(126): Illuminate\Routing\Controllers\Controller->processResponse(Object(Illuminate\Routing\Router), 'showWelcome', Object(Illuminate\View\View))
+#10 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'showWelcome', Array)
+#11 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#12 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#13 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#14 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#15 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#16 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#17 D:\fac\mlc1\TAIP\SVN\Src\SAServer\public\index.php(49): Illuminate\Foundation\Application->run()
+#18 {main} [] []
+[2013-11-10 12:24:42] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAServer\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-10 12:24:49] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAServer\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-10 12:37:24] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAServer\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-10 12:37:28] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAServer\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAServer\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []

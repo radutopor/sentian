@@ -1,0 +1,23 @@
+body {
+	padding-top: 30px;
+}
+.text-align-center {
+	text-align: center;
+}
+.title {
+	margin-top: 100px;
+	margin-bottom: 80px;
+}
+.input-field {
+	width: 60%;
+	margin: auto;
+}
+.or {
+	margin-top: 60px;
+}
+.login {
+	margin-top: 60px;
+}
+.login-text {
+	margin-left: 10px;
+}

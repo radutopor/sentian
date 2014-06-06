@@ -1,0 +1,23 @@
+TODO log: newer entires at the top
+
+===========================
+-add admin control panel - marius
+- admin control panel tempate bootstrap : -> http://startbootstrap.com/simple-sidebar
+===========================
+
+- phpinshight (marius) ✔
+- functional testing  (teste pentru module) ✔
+- non functional testing (teset de performanţă - strees (1000 call)) ✔
+- refactor analyzer service (marius, tiby) ✔
+
+===========================
+
+- refactor Db, analyse (tiby) - 1/2 ✔
+- NLPTools (marius) (limit after db refactor) ✔, AOP lib install (Marius) ✔
+- test everything (silviu)
+
+===========================
+- refactor db setup with larry (http://xcmer.github.io/larry-four-generator) (tiby) ✔
+- implement model api requests (marius, tiby) ✔
+- add basic rest service (tiby) ✔
+- add basic services table view  (tiby) ✔ 

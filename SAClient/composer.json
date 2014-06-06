@@ -1,0 +1,53 @@
+{
+	"name": "laravel/laravel",
+	"description": "The Laravel Framework.",
+	"keywords": ["framework", "laravel"],
+	"license": "MIT",
+	"repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/thetiby/larry-four-generator"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/thetiby/php-nlp-tools"
+        }
+    ],
+	"require": {
+		"laravel/framework": "4.0.*",
+		"artdarek/oauth-4-laravel": "dev-master",
+		"mashape/unirest-php" : "dev-master",
+		"phpunit/phpunit": "3.7.*",
+		"j7mbo/twitter-api-php": "dev-master",
+		"raahul/larryfour": "dev-master",
+    	"nlp-tools/nlp-tools": "1.0.*@dev"
+	},
+	"autoload": {
+		"classmap": [
+			"app/commands",
+			"app/controllers",
+			"app/models",
+			"app/database/migrations",
+			"app/database/seeds",
+			"app/tests/TestCase.php",
+			"app/externalLibs/phpInsight",
+			"app/classes"
+		]
+	},
+	"scripts": {
+		"post-install-cmd": [
+			"php artisan optimize"
+		],
+		"post-update-cmd": [
+			"php artisan clear-compiled",
+			"php artisan optimize"
+		],
+		"post-create-project-cmd": [
+			"php artisan key:generate"
+		]
+	},
+	"config": {
+		"preferred-install": "dist"
+	},
+	"minimum-stability": "dev"
+}

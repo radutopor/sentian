@@ -1,0 +1,160 @@
+[2013-11-12 08:34:10] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:34:10] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:34:10] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:34:20] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:34:20] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:34:20] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:35:21] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:35:21] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:35:21] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:35:55] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:35:55] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:35:55] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:36:02] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:36:02] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:36:03] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:49:38] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:50:40] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:51:08] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:51:33] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []
+[2013-11-12 08:51:42] log.ERROR: exception 'Symfony\Component\HttpKernel\Exception\NotFoundHttpException' in D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php:1429
+Stack trace:
+#0 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1050): Illuminate\Routing\Router->handleRoutingException(Object(Symfony\Component\Routing\Exception\ResourceNotFoundException))
+#1 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1014): Illuminate\Routing\Router->findRoute(Object(Illuminate\Http\Request))
+#2 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(574): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#3 D:\fac\mlc1\TAIP\SVN\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(550): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#4 D:\fac\mlc1\TAIP\SVN\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#5 {main} [] []

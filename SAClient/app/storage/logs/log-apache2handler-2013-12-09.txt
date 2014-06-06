@@ -1,0 +1,214 @@
+[2013-12-09 14:57:39] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'main(): Failed opening required 'TwitterAPIExchange.php' (include_path='D:\Project\Src\SAClient\vendor/phpunit/php-token-stream;D:\Project\Src\SAClient\vendor/phpunit/php-text-template;D:\Project\Src\SAClient\vendor/phpunit/phpunit-mock-objects;D:\Project\Src\SAClient\vendor/phpunit/php-timer;D:\Project\Src\SAClient\vendor/phpunit/php-file-iterator;D:\Project\Src\SAClient\vendor/phpunit/php-code-coverage;D:\Project\Src\SAClient\vendor/phpunit/phpunit;D:\Project\Src\SAClient\vendor/symfony/yaml;.;C:\php\pear')' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:3
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-12-09 14:57:45] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'main(): Failed opening required 'TwitterAPIExchange.php' (include_path='D:\Project\Src\SAClient\vendor/phpunit/php-token-stream;D:\Project\Src\SAClient\vendor/phpunit/php-text-template;D:\Project\Src\SAClient\vendor/phpunit/phpunit-mock-objects;D:\Project\Src\SAClient\vendor/phpunit/php-timer;D:\Project\Src\SAClient\vendor/phpunit/php-file-iterator;D:\Project\Src\SAClient\vendor/phpunit/php-code-coverage;D:\Project\Src\SAClient\vendor/phpunit/phpunit;D:\Project\Src\SAClient\vendor/symfony/yaml;.;C:\php\pear')' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:3
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-12-09 14:58:38] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'TwitterPostsRetriever' not found' in D:\Project\Src\SAClient\app\controllers\Analyser.php:14
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-12-09 15:00:41] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'main(): Failed opening required 'TwitterAPIExchange.php' (include_path='D:\Project\Src\SAClient\vendor/phpunit/php-token-stream;D:\Project\Src\SAClient\vendor/phpunit/php-text-template;D:\Project\Src\SAClient\vendor/phpunit/phpunit-mock-objects;D:\Project\Src\SAClient\vendor/phpunit/php-timer;D:\Project\Src\SAClient\vendor/phpunit/php-file-iterator;D:\Project\Src\SAClient\vendor/phpunit/php-code-coverage;D:\Project\Src\SAClient\vendor/phpunit/phpunit;D:\Project\Src\SAClient\vendor/symfony/yaml;.;C:\php\pear')' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:3
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-12-09 15:07:01] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'main(): Failed opening required 'TwitterAPIExchange.php' (include_path='D:\Project\Src\SAClient\vendor/phpunit/php-token-stream;D:\Project\Src\SAClient\vendor/phpunit/php-text-template;D:\Project\Src\SAClient\vendor/phpunit/phpunit-mock-objects;D:\Project\Src\SAClient\vendor/phpunit/php-timer;D:\Project\Src\SAClient\vendor/phpunit/php-file-iterator;D:\Project\Src\SAClient\vendor/phpunit/php-code-coverage;D:\Project\Src\SAClient\vendor/phpunit/phpunit;D:\Project\Src\SAClient\vendor/symfony/yaml;.;C:\php\pear')' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:3
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-12-09 15:07:02] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'main(): Failed opening required 'TwitterAPIExchange.php' (include_path='D:\Project\Src\SAClient\vendor/phpunit/php-token-stream;D:\Project\Src\SAClient\vendor/phpunit/php-text-template;D:\Project\Src\SAClient\vendor/phpunit/phpunit-mock-objects;D:\Project\Src\SAClient\vendor/phpunit/php-timer;D:\Project\Src\SAClient\vendor/phpunit/php-file-iterator;D:\Project\Src\SAClient\vendor/phpunit/php-code-coverage;D:\Project\Src\SAClient\vendor/phpunit/phpunit;D:\Project\Src\SAClient\vendor/symfony/yaml;.;C:\php\pear')' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:3
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-12-09 15:07:03] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'main(): Failed opening required 'TwitterAPIExchange.php' (include_path='D:\Project\Src\SAClient\vendor/phpunit/php-token-stream;D:\Project\Src\SAClient\vendor/phpunit/php-text-template;D:\Project\Src\SAClient\vendor/phpunit/phpunit-mock-objects;D:\Project\Src\SAClient\vendor/phpunit/php-timer;D:\Project\Src\SAClient\vendor/phpunit/php-file-iterator;D:\Project\Src\SAClient\vendor/phpunit/php-code-coverage;D:\Project\Src\SAClient\vendor/phpunit/phpunit;D:\Project\Src\SAClient\vendor/symfony/yaml;.;C:\php\pear')' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:3
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-12-09 15:07:04] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'main(): Failed opening required 'TwitterAPIExchange.php' (include_path='D:\Project\Src\SAClient\vendor/phpunit/php-token-stream;D:\Project\Src\SAClient\vendor/phpunit/php-text-template;D:\Project\Src\SAClient\vendor/phpunit/phpunit-mock-objects;D:\Project\Src\SAClient\vendor/phpunit/php-timer;D:\Project\Src\SAClient\vendor/phpunit/php-file-iterator;D:\Project\Src\SAClient\vendor/phpunit/php-code-coverage;D:\Project\Src\SAClient\vendor/phpunit/phpunit;D:\Project\Src\SAClient\vendor/symfony/yaml;.;C:\php\pear')' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:3
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-12-09 15:07:04] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'main(): Failed opening required 'TwitterAPIExchange.php' (include_path='D:\Project\Src\SAClient\vendor/phpunit/php-token-stream;D:\Project\Src\SAClient\vendor/phpunit/php-text-template;D:\Project\Src\SAClient\vendor/phpunit/phpunit-mock-objects;D:\Project\Src\SAClient\vendor/phpunit/php-timer;D:\Project\Src\SAClient\vendor/phpunit/php-file-iterator;D:\Project\Src\SAClient\vendor/phpunit/php-code-coverage;D:\Project\Src\SAClient\vendor/phpunit/phpunit;D:\Project\Src\SAClient\vendor/symfony/yaml;.;C:\php\pear')' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:3
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-12-09 15:07:11] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'Class 'TwitterPostsRetriever' not found' in D:\Project\Src\SAClient\app\controllers\Analyser.php:14
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-12-09 15:20:29] log.ERROR: exception 'Exception' with message 'SSL certificate problem: unable to get local issuer certificate' in D:\Project\Src\SAClient\vendor\mashape\unirest-php\lib\Unirest\Unirest.php:166
+Stack trace:
+#0 D:\Project\Src\SAClient\vendor\mashape\unirest-php\lib\Unirest\Unirest.php(47): Unirest::request('GET', 'https://graph.f...', NULL, Array, NULL, NULL)
+#1 D:\Project\Src\SAClient\app\models\FacebookPostsRetriever.php(9): Unirest::get('https://graph.f...')
+#2 D:\Project\Src\SAClient\app\models\PostsRetriever.php(8): FacebookPostsRetriever->makeRequest('android', NULL)
+#3 D:\Project\Src\SAClient\app\controllers\Analyser.php(17): PostsRetriever->retrieve('android', NULL)
+#4 [internal function]: Analyser->analyse()
+#5 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#7 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#8 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#11 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#12 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(576): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#13 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(552): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#14 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#15 {main} [] []
+[2013-12-09 16:01:35] log.ERROR: exception 'ErrorException' with message 'Undefined property: stdClass::$data' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:29
+Stack trace:
+#0 D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php(29): Illuminate\Exception\Handler->handleError(8, 'Undefined prope...', 'D:\Project\Src\...', 29, Array)
+#1 D:\Project\Src\SAClient\app\models\PostsRetriever.php(8): TwitterPostsRetriever->makeRequest('android', NULL)
+#2 D:\Project\Src\SAClient\app\controllers\Analyser.php(17): PostsRetriever->retrieve('android', NULL)
+#3 [internal function]: Analyser->analyse()
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#5 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#7 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(576): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#12 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(552): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#13 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#14 {main} [] []
+[2013-12-09 16:06:06] log.ERROR: exception 'ErrorException' with message 'Undefined property: stdClass::$data' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:30
+Stack trace:
+#0 D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php(30): Illuminate\Exception\Handler->handleError(8, 'Undefined prope...', 'D:\Project\Src\...', 30, Array)
+#1 D:\Project\Src\SAClient\app\models\PostsRetriever.php(8): TwitterPostsRetriever->makeRequest('android', NULL)
+#2 D:\Project\Src\SAClient\app\controllers\Analyser.php(17): PostsRetriever->retrieve('android', NULL)
+#3 [internal function]: Analyser->analyse()
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#5 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#7 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(576): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#12 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(552): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#13 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#14 {main} [] []
+[2013-12-09 16:35:42] log.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'main(): Failed opening required 'TwitterAPIExchange.php' (include_path='D:\Project\Src\SAClient\vendor/phpunit/php-token-stream;D:\Project\Src\SAClient\vendor/phpunit/php-text-template;D:\Project\Src\SAClient\vendor/phpunit/phpunit-mock-objects;D:\Project\Src\SAClient\vendor/phpunit/php-timer;D:\Project\Src\SAClient\vendor/phpunit/php-file-iterator;D:\Project\Src\SAClient\vendor/phpunit/php-code-coverage;D:\Project\Src\SAClient\vendor/phpunit/phpunit;D:\Project\Src\SAClient\vendor/symfony/yaml;.;C:\php\pear')' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:3
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleShutdown()
+#1 {main} [] []
+[2013-12-09 16:37:21] log.ERROR: exception 'Exception' with message 'performRequest parameter must be true or false' in D:\Project\Src\SAClient\vendor\j7mbo\twitter-api-php\TwitterAPIExchange.php:184
+Stack trace:
+#0 D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php(20): TwitterAPIExchange->performRequest(5)
+#1 D:\Project\Src\SAClient\app\models\PostsRetriever.php(8): TwitterPostsRetriever->makeRequest('android', NULL)
+#2 D:\Project\Src\SAClient\app\controllers\Analyser.php(17): PostsRetriever->retrieve('android', NULL)
+#3 [internal function]: Analyser->analyse()
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#5 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#7 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(576): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#12 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(552): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#13 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#14 {main} [] []
+[2013-12-09 16:58:27] log.ERROR: exception 'ErrorException' with message 'json_decode() expects parameter 1 to be string, object given' in D:\Project\Src\SAClient\app\models\FacebookPostsRetriever.php:8
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleError(2, 'json_decode() e...', 'D:\Project\Src\...', 8, Array)
+#1 D:\Project\Src\SAClient\app\models\FacebookPostsRetriever.php(8): json_decode(Object(stdClass))
+#2 D:\Project\Src\SAClient\app\models\PostsRetriever.php(8): FacebookPostsRetriever->makeRequest('android', NULL)
+#3 D:\Project\Src\SAClient\app\controllers\Analyser.php(17): PostsRetriever->retrieve('android', NULL)
+#4 [internal function]: Analyser->analyse()
+#5 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#7 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#8 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#11 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#12 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(576): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#13 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(552): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#14 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#15 {main} [] []
+[2013-12-09 17:09:31] log.ERROR: exception 'ErrorException' with message 'Trying to get property of non-object' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:26
+Stack trace:
+#0 D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php(26): Illuminate\Exception\Handler->handleError(8, 'Trying to get p...', 'D:\Project\Src\...', 26, Array)
+#1 D:\Project\Src\SAClient\app\models\PostsRetriever.php(8): TwitterPostsRetriever->makeRequest('pink floyd', NULL)
+#2 D:\Project\Src\SAClient\app\controllers\Analyser.php(17): PostsRetriever->retrieve('pink floyd', NULL)
+#3 [internal function]: Analyser->analyse()
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#5 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#7 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(576): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#12 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(552): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#13 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#14 {main} [] []
+[2013-12-09 17:09:41] log.ERROR: exception 'ErrorException' with message 'Trying to get property of non-object' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:26
+Stack trace:
+#0 D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php(26): Illuminate\Exception\Handler->handleError(8, 'Trying to get p...', 'D:\Project\Src\...', 26, Array)
+#1 D:\Project\Src\SAClient\app\models\PostsRetriever.php(8): TwitterPostsRetriever->makeRequest('pink floyd', NULL)
+#2 D:\Project\Src\SAClient\app\controllers\Analyser.php(17): PostsRetriever->retrieve('pink floyd', NULL)
+#3 [internal function]: Analyser->analyse()
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#5 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#7 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(576): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#12 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(552): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#13 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#14 {main} [] []
+[2013-12-09 17:18:08] log.ERROR: exception 'ErrorException' with message 'Trying to get property of non-object' in D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php:25
+Stack trace:
+#0 D:\Project\Src\SAClient\app\models\TwitterPostsRetriever.php(25): Illuminate\Exception\Handler->handleError(8, 'Trying to get p...', 'D:\Project\Src\...', 25, Array)
+#1 D:\Project\Src\SAClient\app\models\PostsRetriever.php(8): TwitterPostsRetriever->makeRequest('pink floyd', NULL)
+#2 D:\Project\Src\SAClient\app\controllers\Analyser.php(17): PostsRetriever->retrieve('pink floyd', NULL)
+#3 [internal function]: Analyser->analyse()
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#5 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('analyse', Array)
+#6 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'analyse', Array)
+#7 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(576): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#12 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(552): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#13 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#14 {main} [] []
+[2013-12-09 17:23:52] log.ERROR: exception 'ErrorException' with message 'A session had already been started - ignoring session_start()' in D:\Project\Src\SAClient\app\controllers\Home.php:7
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleError(8, 'A session had a...', 'D:\Project\Src\...', 7, Array)
+#1 D:\Project\Src\SAClient\app\controllers\Home.php(7): session_start()
+#2 [internal function]: Home->init()
+#3 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('init', Array)
+#5 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'init', Array)
+#6 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#7 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(576): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(552): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#12 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#13 {main} [] []
+[2013-12-09 17:24:04] log.ERROR: exception 'ErrorException' with message 'A session had already been started - ignoring session_start()' in D:\Project\Src\SAClient\app\controllers\Home.php:7
+Stack trace:
+#0 [internal function]: Illuminate\Exception\Handler->handleError(8, 'A session had a...', 'D:\Project\Src\...', 7, Array)
+#1 D:\Project\Src\SAClient\app\controllers\Home.php(7): session_start()
+#2 [internal function]: Home->init()
+#3 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(138): call_user_func_array(Array, Array)
+#4 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Controllers\Controller.php(115): Illuminate\Routing\Controllers\Controller->callMethod('init', Array)
+#5 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(985): Illuminate\Routing\Controllers\Controller->callAction(Object(Illuminate\Foundation\Application), Object(Illuminate\Routing\Router), 'init', Array)
+#6 [internal function]: Illuminate\Routing\Router->Illuminate\Routing\{closure}()
+#7 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(80): call_user_func_array(Object(Closure), Array)
+#8 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Route.php(47): Illuminate\Routing\Route->callCallable()
+#9 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Routing\Router.php(1016): Illuminate\Routing\Route->run(Object(Illuminate\Http\Request))
+#10 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(576): Illuminate\Routing\Router->dispatch(Object(Illuminate\Http\Request))
+#11 D:\Project\Src\SAClient\vendor\laravel\framework\src\Illuminate\Foundation\Application.php(552): Illuminate\Foundation\Application->dispatch(Object(Illuminate\Http\Request))
+#12 D:\Project\Src\SAClient\public\index.php(49): Illuminate\Foundation\Application->run()
+#13 {main} [] []

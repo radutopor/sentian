@@ -1,0 +1,24 @@
+Service services; hm Endpoint; ho Limit;
+    name string 40
+    root string 120
+    timestamps
+    softDeletes
+
+Limit limits;
+    type enum day, week, month, year
+    max_hits integer; unsigned
+    current_hits integer; unsigned; default "0"
+    first_call_date date; nullable
+
+Endpoint endpoints; hm Parameter;
+    prefix string 40; nullable
+    name string 40
+    httpMethod enum GET, POST, PUT, PATCH, DELETE; default "POST" 
+    httpHeaders string 40; default "application/json"; nullable
+    httpContentType string 40; nullable
+
+Parameter parameters;
+    name string 20
+    defaultValue string 30; nullable; default NULL
+    type enum string, number
+    required boolean; default TRUE
